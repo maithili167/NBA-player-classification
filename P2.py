@@ -1,7 +1,4 @@
-'''
-Name: Maithili Deshpande
-Student ID:1001230528
-'''
+
 #importing all the required modules for the classifier
 import pandas as pd
 from sklearn.model_selection import train_test_split
